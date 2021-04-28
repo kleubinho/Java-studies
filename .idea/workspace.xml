@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77871c1d-a291-4e20-aa45-553a8664235d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Switch case/Switch case.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/espressao_condicional-ternaria/espressao_condicional-ternaria.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio 2/exercicio 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio 4/exercicio 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio 5/exercicio 5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio1_while/exercicio1_while.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio2_while/exercicio2_while.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio3_while/exercicio3_while.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio_3/exercicio_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio_6/exercicio_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios_1/exercicios_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercio_7/exercio_7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sintaxe_opcional/sintaxe_opcional.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rm3oWe5CwLEFE8J2Fe3dVWBX05" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercicio1_while" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77871c1d-a291-4e20-aa45-553a8664235d" name="Default Changelist" comment="" />
+      <created>1619567613914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619567613914</updated>
+    </task>
+    <servers />
+  </component>
+</project>

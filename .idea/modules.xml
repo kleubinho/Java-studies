@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-studies.iml" filepath="$PROJECT_DIR$/.idea/Java-studies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch case/Switch case.iml" filepath="$PROJECT_DIR$/Switch case/Switch case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug/debug.iml" filepath="$PROJECT_DIR$/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/espressao_condicional-ternaria/espressao_condicional-ternaria.iml" filepath="$PROJECT_DIR$/espressao_condicional-ternaria/espressao_condicional-ternaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_repetitiva(for)/estrutura_repetitiva(for).iml" filepath="$PROJECT_DIR$/estrutura_repetitiva(for)/estrutura_repetitiva(for).iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_repetitiva(while)/estrutura_repetitiva(while).iml" filepath="$PROJECT_DIR$/estrutura_repetitiva(while)/estrutura_repetitiva(while).iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio 2/exercicio 2.iml" filepath="$PROJECT_DIR$/exercicio 2/exercicio 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio 4/exercicio 4.iml" filepath="$PROJECT_DIR$/exercicio 4/exercicio 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio 5/exercicio 5.iml" filepath="$PROJECT_DIR$/exercicio 5/exercicio 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio1_while/exercicio1_while.iml" filepath="$PROJECT_DIR$/exercicio1_while/exercicio1_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio2_while/exercicio2_while.iml" filepath="$PROJECT_DIR$/exercicio2_while/exercicio2_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio3_while/exercicio3_while.iml" filepath="$PROJECT_DIR$/exercicio3_while/exercicio3_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_3/exercicio_3.iml" filepath="$PROJECT_DIR$/exercicio_3/exercicio_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_6/exercicio_6.iml" filepath="$PROJECT_DIR$/exercicio_6/exercicio_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_1/exercicios_1.iml" filepath="$PROJECT_DIR$/exercicios_1/exercicios_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercio_7/exercio_7.iml" filepath="$PROJECT_DIR$/exercio_7/exercio_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe_opcional/sintaxe_opcional.iml" filepath="$PROJECT_DIR$/sintaxe_opcional/sintaxe_opcional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste_de_mesawhile/teste_de_mesawhile.iml" filepath="$PROJECT_DIR$/teste_de_mesawhile/teste_de_mesawhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treino/treino.iml" filepath="$PROJECT_DIR$/treino/treino.iml" />
+    </modules>
+  </component>
+</project>
